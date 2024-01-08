@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(47, 49, 49);
+}
+header{
+    background-color: rgba(47, 49, 49, 0.685);
+    color: rgb(202, 202, 202);
+    text-align: center;
+}
+nav{
+    background-color: rgb(47, 49, 49, 0.685);
+    font-size: 25px;
+    text-align: center;
+}
+
+nav h1{
+    font-size: 25px;
+    color: 202, 202, 202;
+}
+
+a{
+    color:rgb(202, 202, 202);
+    font-style: oblique;
+    font-size: 25px;
+}
+a:hover {
+    color: rgb(109, 108, 110);
+}
+
+a:active{
+    color: rgb(97, 95, 95);
+}
+
+.bloco{
+    margin-left: 75px ;
+    padding-left: 60px ;
+    width: 80%;
+    background-color: rgb(68, 65, 71);
+    text-align: center;
+}
+
+hr{
+    color: black;
+    width: 10%;
+    size: 25px;
+}
