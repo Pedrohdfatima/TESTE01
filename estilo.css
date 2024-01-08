@@ -48,3 +48,11 @@ hr{
     width: 10%;
     size: 25px;
 }
+
+.navbar{
+    width: 100px;
+    background-color: aliceblue; 
+    margin-left: 625px ;
+    padding-left: 5px ;
+    border-radius: 5px;
+}
