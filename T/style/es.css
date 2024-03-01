@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    width: 100%;
+}
+
+header {
+    background-color: rgb(87, 87, 87);
+    position: relative;
+    margin-top:0px ;
+    text-align: center;
+    width: 100%;
+}
+header h1 {
+    padding: 25px 0;
+}
+
+#logo{
+
+    background-color: gray;
+    text-align: center;
+    width: 50px;
+    padding: 15px;
+    border-radius: 25px;
+    
+
+}
+
+#logo p{
+    text-align: center;
+}
+
+.bu{
+     border: none;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 115px 200px;
+     background-color: #4CAF50;
+}
+
+#si {
+    color: #4CAF50;
+    background-color: blue;
+}
+
+#no {
+    color: aqua;
+    background-color: blueviolet;
+}
+
+#mar {
+    color: black;
+    background-color: brown;
+}
+
+#ro {
+    color: black;
+    background-color: #ffc0cb;
+}
+
+#ttus:hover{
+color:red;
+background-color: blue;
+display:flex;
+justify-content: center;
+align-items: center;
+
+}
